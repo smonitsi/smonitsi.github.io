@@ -6,6 +6,8 @@ layout: default
 
 Philosophy major, literary enthusiast, writer of some sort and now practicing language technology. I'm experienced in customer service, people pleasing and making things up on the fly. My aim is to save the forests, protect minority languages, develop sustainable communities,  end animal production etc. I have not yet succeeded but I keep on trying. This site is for my language technology and programming efforts.
 
+[Link to my CV](https://www.overleaf.com/read/dbbstzphcxjg#34fbfc)
+
 ## Find me on
 
 [Instagram](https://www.instagram.com/montte), [GitHub](https://github.com/smonitsi)
