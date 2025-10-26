@@ -29,6 +29,7 @@ My email address is of the form first_name.last_name@helsinki.fi.
 ## Projects
 
 [Practicing Github](https://github.com/smonitsi/cmdline-course)
+This project was for the course "Command-line tools for linguists". Here I learned how to use Github repositories.
 
 ## Misc. 
 
