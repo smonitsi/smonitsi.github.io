@@ -4,17 +4,17 @@ layout: default
 
 ## What is it?
 
-In fall 2025 I took the course [Command-line tools for linguists](https://studies.helsinki.fi/kurssit/opintojakso/otm-92ee484e-456b-409f-a397-d9d2b6e40a2f/KIK-LG221) in University of Helsinki to learn the basics of command-line tools. Because the course was aimed for linguists, one of its main focuses was in text-editing. The course was divided into four modules with different learning goals. 
+In fall 2025 I took the course [Command-line tools for linguists](https://studies.helsinki.fi/kurssit/opintojakso/otm-92ee484e-456b-409f-a397-d9d2b6e40a2f/KIK-LG221) in University of Helsinki to learn the basics of command-line tools. Because the course was aimed for linguists, one of its main focuses was in text-editing. The course was divided into four modules with different learning goals listed below. 
 
 ### Module 1: Introduction to Command Line Environments
 
-On the first module I learned the very basics of UNIX commands, including
+On the first module I learned the very basics of UNIX commands, including:
 - navigating directories
 - creating and removing files and directories
 - copying and moving files and directories
-- change the read and write permissions for files
+- change the read and write permissions for files by using **chmod**
 
-Example of the code I wrote for navigating directories
+Example of the code I wrote for navigating directories:
 ```
 mkdir KIK-LG221
 cd KIK-LG221
@@ -27,10 +27,10 @@ pwd
  
 ### Module 2: Text Processing in UNIX
 
-On the second module I learned more advanced UNIX commands for text processing, including
+On the second module I learned more advanced UNIX commands for text processing, including:
 - converting text files
-- sorting textfiles using sort and uniq
-- finding patterns using grep, sed and RegEX
+- sorting textfiles using **sort** and **uniq**
+- finding patterns using **grep**, **sed** and regular expressions
 - how to pipe commands
 
 Here's a code I wrote for creating a frequency list from textfile to find most frequent words:
@@ -59,9 +59,11 @@ while read -r line; do
 done < $1
 ```
 
-### Module 4:
+### Module 4: Using ssh, scp and Version Control
 
-The fourth module focused on learning version control by using Github. I learned how to add, commit and push changes from local repository to remote repository. I also practiced using different branches to test code and how to merch branches. This site is created by using Github and is the final project of the course. I also learned how to use Markdown to format the site.
+The fourth module focused on using version control and remote servers. I learned how to add, commit and push changes from local repository to remote repository. I also practiced using different branches to test code and how to merch branches.
+
+This site is created by using Github and is the final project of the course. I also learned how to use Markdown to format the site.
 
 With Markdown I could, for example, create a table like this:
 ```
@@ -85,9 +87,9 @@ And it would look like this:
 | Wasps		| Yes		| **NO**	  |
 | Zebras	| Yes		| Absolutely yes  |
 
-___
 
-### End reflection
+
+## End reflection
 
 After the course I feel more comfortable in my programming skills. I found the text processing tools useful for my future projects and career development. Creating websites is something I've wanted to learn for a long time and I'm happy to have completed this final project and hope to develop my skills more in the future.
 
