@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-Philosophy major, literary enthusiast, writer of some sort and now practicing language technology. I'm experienced in customer service, people pleasing and making up things on the fly. My aim is to save the forests, protect minority languages, develop sustainable communities,  end animal production etc. I have not yet succeeded but I keep on trying. This site is for my language technology and programming efforts.
+Philosophy major, literary enthusiast, writer of some sort and now practicing language technology. I'm experienced in customer service, people pleasing and making things up on the fly. My aim is to save the forests, protect minority languages, develop sustainable communities,  end animal production etc. I have not yet succeeded but I keep on trying. This site is for my language technology and programming efforts.
 
 ## Find me on
 
@@ -29,8 +29,11 @@ My email address is of the form first_name.last_name@helsinki.fi.
 ## Projects
 
 [Practicing Github](https://github.com/smonitsi/cmdline-course)
+
 This project was for the course "Command-line tools for linguists". Here I learned how to use Github repositories.
 
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[Dilemmerch](https://www.instagram.com/dilemmerch)
+
+A project I took part in and named myself the Head of Marketing. We made merch from recycled materials, organized photoshoots, created a catalogue and promoted sustainability.
