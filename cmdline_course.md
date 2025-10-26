@@ -87,7 +87,8 @@ And it would look like this:
 
 ___
 
-###End reflection
+### End reflection
 
-After the course I feel more comfortable in my programming skills. I found the text processing tools useful for my future
-Projects and career development. 
+After the course I feel more comfortable in my programming skills. I found the text processing tools useful for my future projects and career development. Creating websites is something I've wanted to learn for a long time and I'm happy to have completed this final project and hope to develop my skills more in the future.
+
+![Thank you](https://www.publicdomainpictures.net/pictures/230000/t2/thank-you-lobster-text-title.jpg)
